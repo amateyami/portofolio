@@ -1,0 +1,93 @@
+body {
+    background-color: rgb(243, 214, 161);
+    padding-inline: 95px;
+    margin-inline: 95px;
+}
+
+div {
+    padding:70px 150px;
+    margin-left: 100px;
+    margin-top: auto;
+    border-width: 50px;
+    border-radius: 80px;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    font-style: italic;
+    font-weight:bolder;
+    color: #835f33;
+}
+
+p{
+    font-size: 18px;
+    font-family: 'Gluten', cursive;
+    color: #c79c68;
+}
+
+.intro{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 50px;
+    margin-bottom: 60px;
+    background-color: bisque;
+    width: 650px;
+    height: 240px;
+}
+
+.data{
+    padding-top: 10px;
+    padding-bottom: 15px;
+    margin-left: 50px;
+    margin-bottom: 60px;
+    background-color: bisque;
+    width: 650px;
+    height: 190px;
+    line-height: 30px;
+}
+
+.study{
+    padding-top: 10px;
+    padding-bottom: 45px;
+    margin-left: 50px;
+    margin-bottom: 60px;
+    background-color: bisque;
+    width: 650px;
+    height: 150px;
+}
+
+.experience{
+    padding-top: 10px;
+    padding-bottom: 1px;
+    margin-left: 50px;
+    margin-bottom: 60px;
+    background-color: #e7caa5;
+    width: 650px;
+    height: 90px;
+}
+
+.inspiration{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 50px;
+    margin-bottom: 60px;
+    background-color: #e7caa5;
+    width: 650px;
+    height: 230px;
+}
+
+.ul{
+    font-family: 'Architects Daughter', cursive;
+    color: #bd9561;
+}
+
+.resume{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 50px;
+    margin-bottom: 60px;
+    background-color: #e7caa5;
+    width: 650px;
+    height: 120px;
+}
